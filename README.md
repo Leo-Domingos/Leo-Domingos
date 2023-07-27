@@ -16,3 +16,5 @@ Estou desenvolvendo o meu portfólio para expor algumas habilidades que adquiri 
 3. Elaboração das restrições do problema
 4. Desenvolvimento do método de solução
 5. Revisão e proposta de possíveis ações
+
+Ele será desenvolvido no repositório case-study, fique à vontade para olhar e trazer suas opiniões!
