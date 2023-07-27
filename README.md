@@ -17,4 +17,4 @@ Estou desenvolvendo o meu portfólio para expor algumas habilidades que adquiri 
 4. Desenvolvimento do método de solução
 5. Revisão e proposta de possíveis ações
 
-Ele será desenvolvido no repositório case-study, fique à vontade para olhar e trazer suas opiniões!
+Ele será desenvolvido no repositório [case-study](https://github.com/Leo-Domingos/case-study), fique à vontade para olhar e trazer suas opiniões!
