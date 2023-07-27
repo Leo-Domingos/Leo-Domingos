@@ -6,6 +6,13 @@ realmente importa.
 
 - 🚀 Formado em Engenharia Aeroespacial pelo Instituto Tecnológico de Aeronáutica
 - 💡 Atuei como Gerente de Produto durante 2 anos
-- 📊 Atualmente atuo como Cientista de Dados
+- 📊 Atualmente atuo como Cientista de Dados numa empresa de Educação
 - 🛠 Desenvolvi projetos de NLP voltados para categorização de comentários textuais
 
+Estou desenvolvendo o meu portfólio para expor algumas habilidades que adquiri durante essa jornada e esse é o roadmap atual:
+
+1. Coleta de dados
+2. Estruturação do problema a ser resolvido
+3. Elaboração das restrições do problema
+4. Desenvolvimento do método de solução
+5. Revisão e proposta de possíveis ações
